@@ -7,4 +7,4 @@
 - Download the assets.zip file extract it.
 - Next to the assets folder create a new file reca.
 - Put all the files except assets in reca.
-- Begin the coding.
+- Use it.
